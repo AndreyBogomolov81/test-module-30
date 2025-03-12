@@ -1,7 +1,7 @@
 name: Fastapi application
 
 on:
-  pull_request:
+  push:
 
 permissions:
   contents: read
